@@ -1,4 +1,4 @@
-# EE551-Project: Well-log Measurements Classification using Machine Learning
+Well-log Measurements Classification using Machine Learning
 # Introduction:
 The oil and gas industry uses well logs to obtain a continuous record of an oil/gas well formation's rock properties and geophysical data. Logging tools developed over the years measure the gamma ray, electrical, acoustic, radioactive responses, electromagnetic, nuclear magnetic resonance, pressure and other properties of the rocks and their contained fluids. The purpose of this project is to use a classification algorithms to identify types of rock facies based on well-log measurements. 
 # Data:
